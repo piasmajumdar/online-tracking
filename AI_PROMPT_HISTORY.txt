@@ -1,0 +1,29 @@
+1. For the online tracking system:
+
+There should be top progress line like:
+* Processing* Shipped *On the way * Out for Delivery * Delivered
+And Estimated delivery Today, 6:00–8:00 PM   top of the right.
+
+Then, in the below, there will be flow of the tracking details like:
+ Order placed , Package picked up , Dhaka Courier Hub , Dispatched to Chittagong , Chittagong Hub , Out for delivery , Delivered  ... These should be in a flow. Completed steps will be marked..
+>>>>Then rest of the thing such as product details(only summary, no view details button)
+
+So, Now, create the page structure again for normal, delayed, delivered but not , tracking not available yet in the text form.. Create for both desktop view and phone view... Don't create image.
+
+(https://chatgpt.com/s/t_6ab64ff3f8448191b2a218d183a15986)
+
+
+
+
+2. Create a navbar component, w-11/12,
+
+containing "QDelivery" simple on the left.
+At the right, there is dropdown button- "Ship Now"(Options - Business Shipment, Local Delivery, National Courier).
+Middle nav items- Track, Services, Partner (For the mobile view, it will be in the hamburger dropdown on the left)
+
+I'm using javascript, heroUI(latest version), tailwindcss, gravity-ui/icons, react icons.
+
+https://chatgpt.com/s/t_6ab65890f3f88191a06dc2cd2a9fec45
+https://chatgpt.com/s/t_6ab65907b3e08191a99972f6a54caf61
+
+3. 

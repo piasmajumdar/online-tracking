@@ -26,4 +26,11 @@ I'm using javascript, heroUI(latest version), tailwindcss, gravity-ui/icons, rea
 https://chatgpt.com/s/t_6ab65890f3f88191a06dc2cd2a9fec45
 https://chatgpt.com/s/t_6ab65907b3e08191a99972f6a54caf61
 
-3. 
+3. Create Data structure in JSON format for this. 
+   COmbine all type of data into one
+
+4. Create a tracking home page based on this structure. data is on app/data.js.. See the data strucutre:
+I've pasted the structure of few different conditions. You can modify as you think fit. Don't change the core idea. 
+Add some animation, make it look modern, smooth transition etc. All the design should be in rectangular. Don't use rounded-full.
+
+

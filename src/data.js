@@ -3,6 +3,7 @@ export const data =
   "orders": [
     {
       "orderId": "QD-100001",
+      "displayId": "ORD-10245",
       "status": "in_transit",
 
       "order": {
@@ -148,6 +149,7 @@ export const data =
 
     {
       "orderId": "QD-100002",
+      "displayId": "ORD-10246",
       "status": "delayed",
 
       "order": {
@@ -300,6 +302,7 @@ export const data =
 
     {
       "orderId": "QD-100003",
+      "displayId": "ORD-10247",
       "status": "delivered_not_received",
 
       "order": {
@@ -450,6 +453,7 @@ export const data =
 
     {
       "orderId": "QD-100004",
+      "displayId": "ORD-10248",
       "status": "tracking_unavailable",
 
       "order": {

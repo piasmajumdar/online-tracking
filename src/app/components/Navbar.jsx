@@ -73,7 +73,7 @@ export default function Navbar() {
                 <Dropdown>
                     <Button
                         variant="primary"
-                        className="h-11 rounded-full bg-foreground px-6 text-sm font-medium text-background"
+                        className="h-11 rounded-md bg-foreground px-6 text-sm font-medium text-background"
                     >
                         <span>Ship Now</span>
                         <ChevronDown className="h-4 w-4" />

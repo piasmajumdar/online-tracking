@@ -32,5 +32,7 @@ https://chatgpt.com/s/t_6ab65907b3e08191a99972f6a54caf61
 4. Create a tracking home page based on this structure. data is on app/data.js.. See the data strucutre:
 I've pasted the structure of few different conditions. You can modify as you think fit. Don't change the core idea. 
 Add some animation, make it look modern, smooth transition etc. All the design should be in rectangular. Don't use rounded-full.
-
-
+Yes. Based on your clarification, I would structure it as **one tracking page whose content changes according to the order state**. The top-level delivery stage and the detailed courier timeline are separate pieces of information. In the search box, create manual search box, I'll find different category data. I've shared you the UI of different pages.
+1. Now, see the data.js
+2. Create condition for different delivery status and create the Ui as per the image. (
+NORMAL ORDER, DELAYED ORDER , DELIVERED BUT NOT RECEIVED,  TRACKING NOT AVAILABLE YET)
